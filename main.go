@@ -1,3 +1,3 @@
 package gomod1
 
-const A = 1
+const Gomod1 = "gomod1"
